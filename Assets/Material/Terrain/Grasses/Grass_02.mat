@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-128866241600299277
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass_02
+  m_Shader: {fileID: -6465566751694194690, guid: 08261922785f94b4fbc306dcb15de8c8,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GrassMask:
+        m_Texture: {fileID: 2800000, guid: 81dd041b45500bd41b0719b7d0bfe8bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_06e6b44a30d64585a1c3bd34bec1ee88_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f0d569700bf6d044e915e02c6939b856, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _AlphaToMask: 1
+    - _Blend: 0
+    - _CastShadows: 0
+    - _ColorMapSize: -0.33
+    - _Cull: 0
+    - _DstBlend: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Radius: 1.1
+    - _Smoothness: 0
+    - _SplitPower: 2.2
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _UseBaseColorMap: 1
+    - _UseColorTint: 0
+    - _UseLegcyWorldColor: 0
+    - _WiggleOffset: 0
+    - _WindPow: 0
+    - _WindPower: 1.54
+    - _WindSpeed: 1.2
+    - _WindStrength: 0.55
+    - _WorldOffset: 0
+    - _WorldPow: 1
+    - _WorldSpeed: 0.05
+    - _WorldX: 0.1
+    - _WorldY: 0.1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - _Bottom_Color: {r: 0.12079033, g: 0.2264151, b: 0.10359559, a: 0}
+    - _Grass_Color: {r: 0.30412453, g: 0.4339623, b: 0.20674619, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Top_Color: {r: 0.4258554, g: 0.7924528, b: 0.35510856, a: 0}
+    - _WindColor: {r: 0.20000002, g: 0.35686275, b: 0.17254902, a: 1}
+    - _WindDir: {r: 3.54, g: -8.6, b: 0, a: 0}
+    - _WorldColor: {r: 0.4008291, g: 0.54901963, b: 0.29803923, a: 0}
+    - _WorldDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _trackerPosition: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
